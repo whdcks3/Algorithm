@@ -1,4 +1,4 @@
-package Programmers.Level1;
+package Programmers.Level_1;
 
 public class Num_divi {
     public static void main(String[] args) {

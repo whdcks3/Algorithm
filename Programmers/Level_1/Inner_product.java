@@ -1,4 +1,4 @@
-package Programmers.Level1;
+package Programmers.Level_1;
 
 public class Inner_product {
     public static void main(String[] args) {

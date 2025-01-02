@@ -1,4 +1,4 @@
-package Programmers.Level1;
+package Programmers.Level_1;
 
 import java.util.Arrays;
 import java.util.Collections;

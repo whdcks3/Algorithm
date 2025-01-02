@@ -1,4 +1,4 @@
-package Programmers.Level1;
+package Programmers.Level_1;
 
 public class Between_two {
     public static void main(String[] args) {
