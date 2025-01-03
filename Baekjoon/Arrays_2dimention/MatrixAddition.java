@@ -2,7 +2,7 @@ package Baekjoon.Arrays_2dimention;
 
 import java.util.Scanner;
 
-public class Matrix_addition {
+public class MatrixAddition {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
