@@ -12,3 +12,4 @@ public class Print {
         sc.close();
     }
 }
+// https://www.acmicpc.net/problem/11718
